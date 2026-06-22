@@ -1,0 +1,34 @@
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\appsettings.Development.json
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\appsettings.json
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.staticwebassets.runtime.json
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.staticwebassets.endpoints.json
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.exe
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.deps.json
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.runtimeconfig.json
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.dll
+I:\Dot net lab pre tasks\lab 2\bin\Debug\net8.0\lab 2.pdb
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\rpswa.dswa.cache.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.AssemblyInfoInputs.cache
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.AssemblyInfo.cs
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.csproj.CoreCompileInputs.cache
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.MvcApplicationPartsAssemblyInfo.cache
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.RazorAssemblyInfo.cache
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.RazorAssemblyInfo.cs
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.sourcelink.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\rjimswa.dswa.cache.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\scopedcss\bundle\lab 2.styles.css
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\scopedcss\projectbundle\lab 2.bundle.scp.css
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\staticwebassets.build.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\staticwebassets.build.json.cache
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\staticwebassets.development.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.dll
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\refint\lab 2.dll
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.pdb
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\lab 2.genruntimeconfig.cache
+I:\Dot net lab pre tasks\lab 2\obj\Debug\net8.0\ref\lab 2.dll

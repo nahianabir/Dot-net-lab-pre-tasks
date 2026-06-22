@@ -1,0 +1,20 @@
+﻿@{
+	ViewData["Title"] = "Students";
+}
+
+<h2>@ViewBag.Title</h2>
+<p>@ViewBag.Message</p>
+<ul>
+	<li><a href="/student/details/1">Student 1</a></li>
+	<li><a href="/student/details/2">Student 2</a></li>
+	<li><a href="/student/details/3">Student 3</a></li>
+</ul>
+
+@section PageActions {
+	<div style="background: #f0f0f0; padding: 8px; margin-bottom: 10px;">
+		<a asp-controller="Student" asp-action="Details" asp-route-id="1">
+			View
+			Student 2
+		</a>
+	</div>
+}

@@ -31,3 +31,4 @@ I:\Dot net lab pre tasks\lab1\obj\Debug\net8.0\refint\lab1.dll
 I:\Dot net lab pre tasks\lab1\obj\Debug\net8.0\lab1.pdb
 I:\Dot net lab pre tasks\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
 I:\Dot net lab pre tasks\lab1\obj\Debug\net8.0\ref\lab1.dll
+I:\Dot net lab pre tasks\lab1\obj\Debug\net8.0\lab1.sourcelink.json
