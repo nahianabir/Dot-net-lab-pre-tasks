@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using lab3.Validations;
 namespace lab3.Models
 
 
@@ -31,6 +32,10 @@ namespace lab3.Models
         [Required(ErrorMessage = "GPA is required")]
         [Range(0.0, 4.0, ErrorMessage = "GPA must be between 0.0 and 4.0")]
         public double GPA { get; set; }
+
+        [Required(ErrorMessage = "Date of birth is required")]
+        [MinimumAge(16)]
+        public DateTime DateOfBirth { get; set; }
 
 
     }
