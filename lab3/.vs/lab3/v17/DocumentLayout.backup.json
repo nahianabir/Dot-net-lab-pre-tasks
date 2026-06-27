@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Views\\Registration\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registration\\Success.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\lab3\\Views\\Registration\\Success.cshtml",
+              "RelativeToolTip": "Views\\Registration\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T14:42:45.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Views\\Registration\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registration\\Register.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\lab3\\Views\\Registration\\Register.cshtml",
+              "RelativeToolTip": "Views\\Registration\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T14:40:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\lab3\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:37:07.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\lab3\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:31:50.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

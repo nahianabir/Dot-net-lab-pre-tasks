@@ -1,0 +1,36 @@
+﻿@model lab3.Models.Student
+@{
+	ViewData["Title"] = "Registration Successful";
+}
+<h2>Registration Successful</h2>
+<table class="table table-bordered">
+	<tr>
+		<th>Field</th>
+		<th>Value</th>
+	</tr>
+	<tr>
+		<td>Student ID</td>
+		<td>@Model.StudentId</td>
+	</tr>
+	<tr>
+		<td>Name</td>
+		<td>@Model.Name</td>
+	</tr>
+	<tr>
+		<td>Email</td>
+		<td>@Model.Email</td>
+	</tr>
+	<tr>
+		<td>Age</td>
+		<td>@Model.Age</td>
+	</tr>
+	<tr>
+		<td>GPA</td>
+		<td>@Model.GPA</td>
+	</tr>
+</table>
+<br />
+<a asp-controller="Registration" asp-action="Register">
+	Register Another
+	Student
+</a>
