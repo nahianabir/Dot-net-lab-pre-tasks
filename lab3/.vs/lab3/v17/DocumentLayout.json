@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\validations\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:validations\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBDAF2FB-BE6D-4BC7-A843-406CD5F96474}|lab3.csproj|i:\\dot net lab pre tasks\\lab3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MinimumAgeAttribute.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Validations\\MinimumAgeAttribute.cs",
               "RelativeDocumentMoniker": "Validations\\MinimumAgeAttribute.cs",
               "ToolTip": "I:\\Dot net lab pre tasks\\lab3\\Validations\\MinimumAgeAttribute.cs",
               "RelativeToolTip": "Validations\\MinimumAgeAttribute.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T14:54:12.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Success.cshtml",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Views\\Registration\\Success.cshtml",
               "RelativeDocumentMoniker": "Views\\Registration\\Success.cshtml",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Views\\Registration\\Success.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-27T14:42:45.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T14:42:45.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.cshtml",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Views\\Registration\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Registration\\Register.cshtml",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "Views\\Registration\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-27T14:40:53.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T14:40:53.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab3\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T14:31:50.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T14:31:50.403Z"
             }
           ]
         }
