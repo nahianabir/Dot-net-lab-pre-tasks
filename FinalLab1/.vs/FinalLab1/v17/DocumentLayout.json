@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\FinalLab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\ef\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:ef\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\ef\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:ef\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\controllers\\sccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:controllers\\sccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\migrations\\20260817205327_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:migrations\\20260817205327_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Dot net lab pre tasks\\FinalLab1\\Migrations\\20260817205327_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260817205327_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|i:\\dot net lab pre tasks\\finallab1\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85350C94-0E90-4D46-8B98-E8BCAEEEAF18}|FinalLab1.csproj|solutionrelative:ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +66,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:22:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SCController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Controllers\\SCController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SCController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Controllers\\SCController.cs",
+              "RelativeToolTip": "Controllers\\SCController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T08:53:42.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T20:49:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T15:52:13.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Models\\LoginVm.cs",
+              "RelativeDocumentMoniker": "Models\\LoginVm.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Models\\LoginVm.cs",
+              "RelativeToolTip": "Models\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:50:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:51:41.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\UserInfo.cs",
+              "RelativeDocumentMoniker": "EF\\UserInfo.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\UserInfo.cs",
+              "RelativeToolTip": "EF\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:30:28.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SchoolDbContext.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\SchoolDbContext.cs",
               "RelativeDocumentMoniker": "EF\\SchoolDbContext.cs",
               "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\SchoolDbContext.cs",
               "RelativeToolTip": "EF\\SchoolDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T20:32:45.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\Student.cs",
-              "RelativeDocumentMoniker": "EF\\Student.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\Student.cs",
-              "RelativeToolTip": "EF\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T20:26:34.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -76,25 +178,35 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-17T20:20:09.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T20:20:09.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\Student.cs",
+              "RelativeDocumentMoniker": "EF\\Student.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\Student.cs",
+              "RelativeToolTip": "EF\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T20:26:34.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Department.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\Department.cs",
               "RelativeDocumentMoniker": "EF\\Department.cs",
               "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\EF\\Department.cs",
               "RelativeToolTip": "EF\\Department.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T20:22:07.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T20:22:07.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "20260817205327_InitialCreate.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Migrations\\20260817205327_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260817205327_InitialCreate.cs",
@@ -102,21 +214,7 @@
               "RelativeToolTip": "Migrations\\20260817205327_InitialCreate.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T20:53:27.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalLab1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\FinalLab1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T20:49:44.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T20:53:27.85Z"
             }
           ]
         }

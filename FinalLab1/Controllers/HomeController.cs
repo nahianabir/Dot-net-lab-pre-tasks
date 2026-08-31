@@ -15,6 +15,11 @@ namespace FinalLab1.Controllers
 
         public IActionResult Index()
         {
+            var email = HttpContext.Session.GetString("Email") ?? "empty";
+            if (email == "empty")
+            {
+                return RedirectToAction("Login", "Account");
+            }
             return View();
         }
 
