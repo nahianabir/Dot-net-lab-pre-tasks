@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\FinalApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\finalapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:finalapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +39,12 @@
       "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Dot net lab pre tasks\\FinalApi\\Data\\InventoryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\InventoryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|i:\\dot net lab pre tasks\\finalapi\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C6B95E-EA50-4AFD-AB9B-2CA357ADE4F1}|FinalApi.csproj|solutionrelative:dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,6 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-04T04:31:24.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalApi.http",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\FinalApi.http",
+              "RelativeDocumentMoniker": "FinalApi.http",
+              "ToolTip": "I:\\Dot net lab pre tasks\\FinalApi\\FinalApi.http",
+              "RelativeToolTip": "FinalApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-04T04:31:11.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\DTOS\\MappingProfile.cs",
               "RelativeDocumentMoniker": "DTOS\\MappingProfile.cs",
@@ -62,12 +96,11 @@
               "RelativeToolTip": "DTOS\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T19:45:02.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T19:45:02.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\DTOS\\ProductDTO.cs",
               "RelativeDocumentMoniker": "DTOS\\ProductDTO.cs",
@@ -75,12 +108,11 @@
               "RelativeToolTip": "DTOS\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T19:32:48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T19:32:48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -88,25 +120,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T18:17:39.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T18:17:39.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProductController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "I:\\Dot net lab pre tasks\\FinalApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T19:19:21.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T19:19:21.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Product.cs",
@@ -114,8 +144,7 @@
               "RelativeToolTip": "Data\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T19:38:58.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T19:38:58.75Z"
             },
             {
               "$type": "Document",
@@ -132,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -145,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "InventoryDbContext.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\Data\\InventoryDbContext.cs",
               "RelativeDocumentMoniker": "Data\\InventoryDbContext.cs",
@@ -153,12 +182,11 @@
               "RelativeToolTip": "Data\\InventoryDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T18:49:46.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T18:49:46.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\FinalApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
