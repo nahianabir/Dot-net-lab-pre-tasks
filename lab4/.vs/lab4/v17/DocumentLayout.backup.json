@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\views\\faculty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:views\\faculty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\data\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:data\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\data\\umsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:data\\umsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\views\\faculty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:views\\faculty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\data\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|solutionrelative:data\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F6A9217-6A76-4B0F-8552-E8F7FF6B9349}|lab4.csproj|i:\\dot net lab pre tasks\\lab4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -75,33 +75,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Views\\Faculty\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Faculty\\Index.cshtml",
               "ToolTip": "I:\\Dot net lab pre tasks\\lab4\\Views\\Faculty\\Index.cshtml",
               "RelativeToolTip": "Views\\Faculty\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-24T17:10:12.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FacultyController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Controllers\\FacultyController.cs",
               "RelativeDocumentMoniker": "Controllers\\FacultyController.cs",
               "ToolTip": "I:\\Dot net lab pre tasks\\lab4\\Controllers\\FacultyController.cs",
               "RelativeToolTip": "Controllers\\FacultyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T16:59:07.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Faculty.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Data\\Entities\\Faculty.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Faculty.cs",
@@ -122,11 +122,12 @@
               "RelativeToolTip": "Data\\Entities\\Faculty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T16:29:35.229Z"
+              "WhenOpened": "2026-07-24T16:29:35.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UmsDbContext.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\lab4\\Data\\UmsDbContext.cs",
               "RelativeDocumentMoniker": "Data\\UmsDbContext.cs",

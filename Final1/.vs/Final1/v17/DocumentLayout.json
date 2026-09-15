@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Final1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\data\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\data\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\dtos\\patientsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\dtos\\patientsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\dtos\\patitentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\dtos\\patitentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|i:\\final1\\final1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48848222-9F9B-41A1-97D4-7D0E11DABC83}|Final1\\Final1.csproj|solutionrelative:final1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Data\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Final1\\Data\\Entities\\Doctor.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Data\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Final1\\Data\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:30:20.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientSaveDTO.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\DTOS\\PatientSaveDTO.cs",
+              "RelativeDocumentMoniker": "Final1\\DTOS\\PatientSaveDTO.cs",
+              "ToolTip": "I:\\Final1\\Final1\\DTOS\\PatientSaveDTO.cs",
+              "RelativeToolTip": "Final1\\DTOS\\PatientSaveDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:39:42.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatitentDTO.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\DTOS\\PatitentDTO.cs",
+              "RelativeDocumentMoniker": "Final1\\DTOS\\PatitentDTO.cs",
+              "ToolTip": "I:\\Final1\\Final1\\DTOS\\PatitentDTO.cs",
+              "RelativeToolTip": "Final1\\DTOS\\PatitentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:22:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Program.cs",
+              "RelativeDocumentMoniker": "Final1\\Program.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Program.cs",
+              "RelativeToolTip": "Final1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:59:06.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Final1\\Controllers\\DoctorController.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Final1\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:27:13.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\DTOS\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Final1\\DTOS\\MappingProfile.cs",
+              "ToolTip": "I:\\Final1\\Final1\\DTOS\\MappingProfile.cs",
+              "RelativeToolTip": "Final1\\DTOS\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:19:29.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Final1\\Controllers\\PatientController.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Final1\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:26:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Data\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Final1\\Data\\Entities\\Patient.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Data\\Entities\\Patient.cs",
+              "RelativeToolTip": "Final1\\Data\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:17:23.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\DTOS\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Final1\\DTOS\\LoginDTO.cs",
+              "ToolTip": "I:\\Final1\\Final1\\DTOS\\LoginDTO.cs",
+              "RelativeToolTip": "Final1\\DTOS\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:53:21.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Final1\\Controllers\\AccountController.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Final1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:56:07.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "I:\\Final1\\Final1\\Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "Final1\\Data\\HospitalContext.cs",
+              "ToolTip": "I:\\Final1\\Final1\\Data\\HospitalContext.cs",
+              "RelativeToolTip": "Final1\\Data\\HospitalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:34:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "I:\\Final1\\Final1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Final1\\appsettings.Development.json",
+              "ToolTip": "I:\\Final1\\Final1\\appsettings.Development.json",
+              "RelativeToolTip": "Final1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-15T08:26:20.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

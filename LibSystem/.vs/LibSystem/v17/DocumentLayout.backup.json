@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\LibSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,12 +63,12 @@
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\Dot net lab pre tasks\\LibSystem\\Data\\LibraryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\LibraryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,8 +94,7 @@
               "RelativeToolTip": "Views\\Book\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:56:22.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:56:22.556Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "Views\\Book\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:53:54.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:53:54.017Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:52:24.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:52:24.117Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:50:54.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:50:54.502Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:46:31.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:46:31.203Z"
             },
             {
               "$type": "Document",
@@ -159,8 +154,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:45:59.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:45:59.73Z"
             },
             {
               "$type": "Document",
@@ -172,8 +166,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-14T17:44:16.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:44:16.471Z"
             },
             {
               "$type": "Document",
@@ -185,25 +178,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:10:22.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:10:22.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowEcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T17:48:09.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
@@ -224,8 +216,7 @@
               "RelativeToolTip": "Data\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T18:12:37.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T18:12:37.294Z"
             },
             {
               "$type": "Document",
@@ -237,8 +228,7 @@
               "RelativeToolTip": "Controllers\\BorrowController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T18:02:44.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T18:02:44.593Z"
             },
             {
               "$type": "Document",
@@ -250,8 +240,7 @@
               "RelativeToolTip": "Data\\Entities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T18:07:18.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T18:07:18.02Z"
             },
             {
               "$type": "Document",
@@ -263,8 +252,7 @@
               "RelativeToolTip": "Views\\Borrow\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T18:05:07.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T18:05:07.515Z"
             },
             {
               "$type": "Document",
@@ -276,12 +264,11 @@
               "RelativeToolTip": "DTOs\\BookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:09:04.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:09:04.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LibraryDbContext.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
@@ -289,12 +276,11 @@
               "RelativeToolTip": "Data\\LibraryDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:06:03.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:06:03.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -302,8 +288,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-14T17:02:52.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T17:02:52.608Z"
             }
           ]
         }

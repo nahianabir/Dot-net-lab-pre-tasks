@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "I:\\Dot net lab pre tasks\\LibSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\entities\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\entities\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -65,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|i:\\dot net lab pre tasks\\libsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4006970-DCCA-4D1F-AD64-BA18C8891DE4}|LibSystem.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,31 +94,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Details.cshtml",
-              "RelativeToolTip": "Views\\Book\\Details.cshtml",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:10:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:48:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Data\\LibraryDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:56:22.556Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:06:03.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:53:54.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BookController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
@@ -118,35 +141,38 @@
               "RelativeToolTip": "Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:52:24.117Z"
+              "WhenOpened": "2026-09-14T17:52:24.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:50:54.502Z"
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:08:05.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowController.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T18:02:44.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T17:46:31.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -154,11 +180,90 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:45:59.73Z"
+              "WhenOpened": "2026-09-14T17:45:59.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T17:50:54.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T17:56:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T17:53:54.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Student.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Student.cs",
+              "RelativeToolTip": "Data\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T18:07:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Category.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Category.cs",
+              "RelativeToolTip": "Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:50:36.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Borrow.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Borrow.cs",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Borrow.cs",
+              "RelativeToolTip": "Data\\Entities\\Borrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:50:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -170,45 +275,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:10:22.789Z"
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T17:46:31.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:48:09.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:08:05.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Book.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Book.cs",
@@ -216,35 +295,12 @@
               "RelativeToolTip": "Data\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T18:12:37.294Z"
+              "WhenOpened": "2026-09-14T18:12:37.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BorrowController.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BorrowController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BorrowController.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Controllers\\BorrowController.cs",
-              "RelativeToolTip": "Controllers\\BorrowController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T18:02:44.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\Student.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\Entities\\Student.cs",
-              "RelativeToolTip": "Data\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T18:07:18.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Views\\Borrow\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Borrow\\Create.cshtml",
@@ -256,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "BookDto.cs",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\DTOs\\BookDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BookDto.cs",
@@ -268,19 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\LibraryDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
-              "ToolTip": "I:\\Dot net lab pre tasks\\LibSystem\\Data\\LibraryDbContext.cs",
-              "RelativeToolTip": "Data\\LibraryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:06:03.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "I:\\Dot net lab pre tasks\\LibSystem\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
