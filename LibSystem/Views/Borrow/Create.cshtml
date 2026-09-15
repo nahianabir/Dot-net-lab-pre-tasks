@@ -1,0 +1,36 @@
+﻿@model LibSystem.Data.Entities.Book
+
+<h2>Borrow Book</h2>
+
+<p>
+    Are you sure you want to borrow:
+</p>
+
+<h3>@Model.Title</h3>
+
+<p>
+    Author: @Model.Author
+</p>
+
+<p>
+    Available Copies:
+    @Model.AvailableCopies
+</p>
+
+<form asp-action="CreatePost"
+      method="post">
+
+    <input type="hidden"
+           name="bookId"
+           value="@Model.Id" />
+
+    <button type="submit">
+        Confirm Borrow
+    </button>
+
+</form>
+
+<a asp-controller="Book"
+   asp-action="Index">
+    Cancel
+</a>

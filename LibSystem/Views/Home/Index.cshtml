@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>University Library</h1>
+
+<p>Welcome to the Library Management System.</p>
+
+@if (User.Identity != null && User.Identity.IsAuthenticated)
+{
+    <a asp-controller="Book" asp-action="Index">
+        Browse Books
+    </a>
+}
+
+<br />
+
+<a asp-controller="Account"
+   asp-action="Login">
+    Login
+</a>
